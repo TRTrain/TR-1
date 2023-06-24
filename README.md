@@ -12,7 +12,7 @@ Business logic :clipboard:
 
 Coding :space_invader:
 
-# Tools 🛠️
+# Tools :wrench:
 • Business Intelligence: Power Bi and Looker Studio <br>
 • Spreadsheet:  Excel and Google Sheet <br>
 • Programming language: Python, SQL, and JS <br>
