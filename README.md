@@ -22,4 +22,4 @@ Coding :space_invader:
 CSAT-Score 😃 😐 😡:  https://github.com/TrainingForFuture/CSAT-Score-Project
 <p> Client Success Associate 📞🗣📳: https://github.com/TrainingForFuture/Client_Success_Associate_Project
 <p> First Jobber 🎓: https://github.com/TrainingForFuture/First_Jobber_Project
-<p> Unicorn Companies SQL Project 🦄🏢: https://github.com/TrainingForFuture/Unicorn_Companies_Project/blob/main/README.md
+<p> Unicorn Companies SQL Project 🦄🏢: https://github.com/TrainingForFuture/Unicorn_Companies_Project
