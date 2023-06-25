@@ -16,7 +16,7 @@ Coding :space_invader:
 • Business Intelligence: Power Bi and Looker Studio <br>
 • Spreadsheet:  Excel and Google Sheet <br>
 • Programming language: Python, SQL, and JS <br>
-• Database: Google BigQuery <br>
+• Database: Google BigQuery, PostgreSQL <br>
 
 # Projects :open_file_folder:
 CSAT-Score 😃 😐 😡:  https://github.com/TrainingForFuture/CSAT-Score-Project
