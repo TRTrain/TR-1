@@ -3,7 +3,7 @@ I'm Train. I've learned more about myself as a person who is passionate about da
 
 Currently, I'm open to opportunities in roles such as Data Analyst, Business Analyst, and Front-End Developer.
 
-# Interestes :dart:
+# Interests :dart:
 Data 📊 
 
 Marketing 🌐
